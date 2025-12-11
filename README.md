@@ -31,5 +31,5 @@ Custom modifications were applied to improve detection stability during rapid ca
 
 ---
 
-## 🏗️ Project Structure
+## 🏗️[ Project Deployment](https://huggingface.co/spaces/Mirttul/MODEL_ADB_MEDHACK)
 
